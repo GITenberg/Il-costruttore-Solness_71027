@@ -1,0 +1,49 @@
+_repo: Il-costruttore-Solness_71027
+_version: 0.0.1
+alternative_title: Bygmester Solness. Italian
+contributor:
+  translators:
+  - agent_name: Polese Santarnecchi, Enrico
+    alias: Santarnecchi, Enrico Polese
+    birthdate: 1873
+    deathdate: 1937
+    gutenberg_agent_id: '56050'
+    url: http://www.gutenberg.org/2009/agents/56050
+  - agent_name: Rindler, Paolo
+    gutenberg_agent_id: '56044'
+    url: http://www.gutenberg.org/2009/agents/56044
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    aliases:
+    - Ibsen, Enrico
+    - Ibsen, Henryk
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Henrik_Ibsen
+    - https://no.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2023-06-23'
+identifiers:
+  gutenberg: '71027'
+language: it
+pgterms:marc904: https://archive.org/details/ibsen-costruttore-solness
+pgterms:marc905: 20220925112045ibsen
+pgterms:marc906: '1906'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bTreves, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architects -- Drama'
+- !lcsh 'Norwegian drama -- Translations into Italian'
+- !lcc 'PT'
+- GITenberg
+title: Il costruttore Solness
+url: http://www.gutenberg.org/ebooks/71027
