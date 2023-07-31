@@ -12,6 +12,9 @@ contributor:
   - agent_name: Rindler, Paolo
     gutenberg_agent_id: '56044'
     url: http://www.gutenberg.org/2009/agents/56044
+covers:
+- cover_type: archival
+  image_path: 71027-h/images/cover.jpg
 creator:
   author:
     agent_name: Ibsen, Henrik
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Henrik_Ibsen
     - https://no.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71027#Il-costruttore-Solness
 gutenberg_issued: '2023-06-23'
 identifiers:
   gutenberg: '71027'
